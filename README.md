@@ -4,7 +4,7 @@
 
 Submitted by: **Zhaobin Tan**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -22,13 +22,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![prework](https://user-images.githubusercontent.com/73725152/184288333-6a9aa421-70e3-44db-bd41-7d5660c124a6.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
